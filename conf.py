@@ -19,12 +19,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Read-the-Docs-test'
+project = u'Sage'
 copyright = u'2018, Junkai'
 author = u'Junkai'
 
 # The short X.Y version
-version = u''
+version = u'0.1'
 # The full version, including alpha/beta/rc tags
 release = u'0.1'
 
